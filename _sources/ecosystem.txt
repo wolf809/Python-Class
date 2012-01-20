@@ -1,0 +1,35 @@
+:tocdepth: 2
+
+Python Basics
+=============
+
+Either when learning Python with no prior programming experience or migrating
+to Python from other programming languages (Matlab, Perl, etc.) one of the 
+first concepts to learn is how Python is set up. 
+
+
+Topics:
+
+- Understand the concept of Python modules and packages
+- Introduction to some of the basic Python modules
+- So what's this "object" stuff you speak of?
+
+
+
+.. toctree::
+   :maxdepth: 1
+
+   Source Material
+   
+
+   
+Source Material
+---------------
+* `Python Ecosysytem <http://mirnazim.org/writings/python-ecosystem-introduction/>`_
+   
+
+:Authors: Matthew Dahmer
+:Copyright: 2012 Matthew Dahmer
+
+
+.. include:: ../references.rst
