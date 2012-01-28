@@ -17,26 +17,26 @@ spring of 2011.
 Topics:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    ecosystem
-   Installation
-   Basics
-   Plotting
-   ReadingWriting
+   basics
+   plotting
+   readingwritingfiles
+   resources
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-Examples
-========
-
-* This is in *italics*
-* This is **really ephasized**
-* this is a code sample ``import Ska.engarchive.fetch as fetch``
+.. Indices and tables
+.. ==================
+..
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
+.. 
+.. Examples
+.. ========
+..
+.. * This is in *italics*
+.. * This is **really ephasized**
+.. * this is a code sample ``import Ska.engarchive.fetch as fetch``
