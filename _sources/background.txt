@@ -32,6 +32,11 @@ What is Python?
   - Readable
   - Extensive Library 
 
+- Can be run this way::
+
+  python scriptname.py
+  
+- Or interactively via ipython
 - `Pros and Cons <http://python4astronomers.github.com/intro/why-python.html`_
 - `Executive Summary <http://www.python.org/doc/essays/blurb.html>`_
 - `Comparison to Other Mainstream Languages (circa 1997) <http://www.python.org/doc/essays/comparisons.html>`_
