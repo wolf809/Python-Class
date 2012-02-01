@@ -23,6 +23,7 @@ Topics
 
 What is Python?
 ---------------
+- Widely used, flexible, easy to read programming language
 - Language Features
 
   - Object Oriented
@@ -32,9 +33,9 @@ What is Python?
   - Readable
   - Extensive Library 
 
-- Can be run this way::
+- Can be run this way ::
 
-  python scriptname.py
+   python scriptname.py
   
 - Or interactively via ipython
 - `Pros and Cons <http://python4astronomers.github.com/intro/why-python.html`_
