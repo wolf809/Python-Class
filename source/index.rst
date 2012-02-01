@@ -35,14 +35,15 @@ Tentative Workshop Schedule
 The workshop schedule is as follows.  Except for the first introductory session all
 workshops are hands-on and participants should bring a laptop.
 
-======== ======================================= ===================== =========
+======== ======================================= ===================== ==============
 Date     Topic                                   Location and time     Presenter
-======== ======================================= ===================== =========
-Feb 1    Introduction to Python                  Conf. Rm. at 12pm     Matt          
-Week 1   Work through tutorials                  Conf. Rm. at 12pm     Matt       
+======== ======================================= ===================== ==============
+Feb 1    Introduction to Python                  Conf. Rm. at 12pm     Matthew Dahmer          
+Week 1   Work through tutorials                  Conf. Rm. at 12pm     Matthew Dahmer     
 Week 2   Break, work on self study/projects      None                  None    
 Week 3   Refresher, help on topics/projects      Conf. Rm. at 12pm     None  
-======== ======================================= ===================== =========
+TDB      Special Topic: Matplotlib               TDB                   Matthew Dahmer
+======== ======================================= ===================== ==============
 
 .. Indices and tables
 .. ==================

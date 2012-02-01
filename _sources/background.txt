@@ -15,19 +15,57 @@ Topics
 ------
 
 - What is Python?
-- Who uses Python?
 - What can Python do?
 - Ok, that's nice, what can Python really DO?
+- Who uses Python?
 - How can I use Python?
-- So what's this "object" stuff you speak of?
-
 
 
 What is Python?
 ---------------
+- Language Features
+
+  - Object Oriented
+  - Interpreted Language
+  - High-Level
+  - Built in datastructures (Lists, Tuples, Dictionaries, etc.)
+  - Readable
+  - Extensive Library 
 
 - `Executive Summary <http://www.python.org/doc/essays/blurb.html>`_
 - `Comparison to Other Mainstream Languages (circa 1997) <http://www.python.org/doc/essays/comparisons.html>`_
+
+
+What can Python do?
+-------------------
+- String processing
+- Mathematics
+- Plotting
+- Image processing
+- Interface with the operating system
+- Work with internet protocals
+- Store and manipulate data
+- Build and control GUIs
+
+
+Ok, that's nice, what can Python really DO?
+-------------------------------------------
+- Build web pages
+- Work with databases
+- Process large amounts of text (ascii, html, etc.)
+- Manage files and other system tasks
+- Serve as a "glue" between compiled applications
+- Communicate with hardware
+- Science and Engineering Applications
+
+  - `Numpy <http://numpy.scipy.org/>`_
+
+    - `Numpy for Matlab Users <http://www.scipy.org/NumPy_for_Matlab_Users>`_
+    
+  - `Matplotlib <http://matplotlib.sourceforge.net/>`_
+  - `Scipy <http://www.scipy.org/>`_
+
+- `Software packages built for/with Python <http://en.wikipedia.org/wiki/List_of_Python_software>`_
 
 
 Who uses Python?
@@ -56,38 +94,6 @@ Who uses Python?
 
 - The point here is that there are many organizations out there using Python, so it is a good language to know
 
-
-What can Python do?
--------------------
-- String processing
-- Mathematics
-- Plotting
-- Image processing
-- Interface with the operating system
-- Work with internet protocals
-- Store and manipulate data
-- Build and control GUIs
-
-
-
-Ok, that's nice, what can Python really DO?
--------------------------------------------
-- Build web pages
-- Work with databases
-- Process large amounts of text (ascii, html, etc.)
-- Manage files and other system tasks
-- Serve as a "glue" between compiled applications
-- Communicate with hardware
-- Science and Engineering Applications
-
-  - `Numpy <http://numpy.scipy.org/>`_
-
-    - `Numpy for Matlab Users <http://www.scipy.org/NumPy_for_Matlab_Users>`_
-    
-  - `Matplotlib <http://matplotlib.sourceforge.net/>`_
-  - `Scipy <http://www.scipy.org/>`_
-
-- `Software packages built for/with Python <http://en.wikipedia.org/wiki/List_of_Python_software>`_
 
 
 How can I use Python?
