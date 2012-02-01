@@ -32,6 +32,7 @@ What is Python?
   - Readable
   - Extensive Library 
 
+- `Pros and Cons <http://python4astronomers.github.com/intro/why-python.html`_
 - `Executive Summary <http://www.python.org/doc/essays/blurb.html>`_
 - `Comparison to Other Mainstream Languages (circa 1997) <http://www.python.org/doc/essays/comparisons.html>`_
 
@@ -92,17 +93,23 @@ Who uses Python?
   - `One Perspective <http://stevetjoa.com/305>`_
   - `Another Perspective, using Sage (An interface to Python, somewhat similar to Matlab/Mathematica/Maple) <http://vnoel.wordpress.com/2008/05/03/bye-matlab-hello-python-thanks-sage/>`_
 
-- The point here is that there are many organizations out there using Python, so it is a good language to know
+- The point here is that there are many first class organizations using Python, which lends credibility to Python's reliability and efficiency. 
+
+
+
+How can I use Python?
+--------------------- 
+
+
+  - I suggest the Enthought distribution for first time users not using the version distributed on the FOT machines
+
+- If you have NX installed and have VPN access to the OCC, you can run the Ska version
 
 
 
 How can I use Python?
 --------------------- 
 - `Download it <http://python.org/getit/>`_
-
-  - I suggest the Enthought distribution for first time users not using the version distributed on the FOT machines
-
-- If you have NX installed and have VPN access to the OCC, you can run the Ska version
 
 
 
