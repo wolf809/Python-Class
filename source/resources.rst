@@ -15,9 +15,11 @@ This is a list of some of the online resources I have encountered. Enjoy!
 Learning Resources
 ------------------
 - `Practical Python for Astronomers <http://python4astronomers.github.com/index.html>`_
+- `Python Docs <http://docs.python.org/>`_
 - `Dive Into Python <http://diveintopython.net>`_
-- `Google's Python Class <http://code.google.com/edu/languages/google-python-class/index.html>`_
+- `Pyschools <http://www.pyschools.com/>`_
 - `Learn Python The Hard Way <http://learnpythonthehardway.org/>`_
+- `Google's Python Class <http://code.google.com/edu/languages/google-python-class/index.html>`_
 - `Numpy for Matlab Users <http://www.scipy.org/NumPy_for_Matlab_Users>`_
 
 Library Documentation

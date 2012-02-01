@@ -17,7 +17,7 @@ Topics
 - What is Python?
 - Who uses Python?
 - What can Python do?
-- What is Python good for?
+- Ok, that's nice, what can Python really DO?
 - How can I use Python?
 - So what's this "object" stuff you speak of?
 
@@ -40,6 +40,7 @@ Who uses Python?
 - Governemnt Agencies (NASA, CIA, NSA, etc.)
 - Scientists/Engineers
 
+  - Astronomy
   - Physics
   - Biology
   - Geography
@@ -58,9 +59,22 @@ Who uses Python?
 
 What can Python do?
 -------------------
+- String processing
+- Mathematics
+- Plotting
+- Image processing
+- Interface with the operating system
+- Work with internet protocals
+- Store and manipulate data
+- Build and control GUIs
+
+
+
+Ok, that's nice, what can Python really DO?
+-------------------------------------------
 - Build web pages
 - Work with databases
-- Process large amounts of text
+- Process large amounts of text (ascii, html, etc.)
 - Manage files and other system tasks
 - Serve as a "glue" between compiled applications
 - Communicate with hardware
